@@ -1,5 +1,4 @@
-CSE438 Final Project:
-App Name: TDLPP
+App Name: Foocus
 
 Features:
 Add/Edit/Delete Tasks and all fields in the tasks

@@ -22,7 +22,7 @@ Add getting recommendation function to get similar movies from a particular movi
 Showing popular movies when the app launches 
 
 c. YouTube previews & clips
-User can watch the previews & clips on YouTube about a particular movie inside the app, by clicking on the "Youtube Preview" button in the detailed view  \
+User can watch the previews & clips on YouTube about a particular movie inside the app, by clicking on the "Youtube Preview" button in the detailed view  
 
 
 #### How to add those features and what the process involved: 
@@ -34,7 +34,7 @@ b. I use additional MvDb API together with the information stored in the userDef
 New view controllers are pushed to navigation controller when getting recommandations and view details. UIAlert is used to notice people if there is no recommandation available yet.
 Create an API call to fetch popular movie at initialization.
 
-c. When user click the button, a new view controller is pushed and I use the WebKit, UIWebkit View, together with URLRequest to implement the feature \
+c. When user click the button, a new view controller is pushed and I use the WebKit, UIWebkit View, together with URLRequest to implement the feature 
 
 #### Why I added it: 
 a. It is very meaningful to save your favorite list and you can see the details of your favorite list at any time. It's also important and convenient to check if a movie is already stored to the favorite list and clear the list at once. 
